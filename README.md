@@ -30,12 +30,12 @@ Un teclado virtual interactivo controlado por gestos de mano, desarrollado con P
 - Webcam funcional
 - Sistema operativo: Windows/macOS/Linux
 
-## Uso 🖐️
-1.- Coloca tu mano frente a la cámara
-2.- Mueve tu dedo índice para controlar el cursor
-3.- Junta pulgar e índice para hacer clic
-4.- Usa los botones especiales:
-  <- : Borra un carácter
-  BORRAR : Limpia todo el texto
-  MAYUS : Alterna mayúsculas/minúsculas
-  EXIT : Cierra la aplicación
+## Uso 🖐
+  1.- Coloca tu mano frente a la cámara
+  2.- Mueve tu dedo índice para controlar el cursor
+  3.- Junta pulgar e índice para hacer clic
+  4.- Usa los botones especiales:
+    <- : Borra un carácter
+    BORRAR : Limpia todo el texto
+    MAYUS : Alterna mayúsculas/minúsculas
+    EXIT : Cierra la aplicación
