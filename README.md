@@ -1,4 +1,4 @@
-# Teclado Virtual por Gestos ✋⌨️
+# Teclado Virtual por Gestos ✋⌨️ Marco Antonio Méndez Moreno
 
 Un teclado virtual interactivo controlado por gestos de mano, desarrollado con Python, OpenCV y MediaPipe. Perfecto para entornos kioskos, pantallas táctiles o como herramienta de accesibilidad.
 
