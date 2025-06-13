@@ -2,17 +2,12 @@
 
 Un teclado virtual interactivo controlado por gestos de mano, desarrollado con Python, OpenCV y MediaPipe. Perfecto para entornos kioskos, pantallas táctiles o como herramienta de accesibilidad.
 
-# Teclado Virtual por Gestos de Mano
-
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Este proyecto implementa un teclado virtual en tiempo real que se controla mediante gestos de la mano, utilizando una cámara web. El sistema detecta la posición del dedo índice para seleccionar teclas y un gesto de 'clic' (juntar el pulgar y el índice) para escribirlas.
-
-![Demostración del Teclado Virtual](https://via.placeholder.com/700x450.png?text=Añade+aquí+un+GIF+de+demostración+del+proyecto)
-*(Se recomienda reemplazar la imagen de arriba con un GIF que muestre el teclado en acción)*
 
 ---
 
