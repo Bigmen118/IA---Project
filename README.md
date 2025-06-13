@@ -30,13 +30,6 @@ Un teclado virtual interactivo controlado por gestos de mano, desarrollado con P
 - Webcam funcional
 - Sistema operativo: Windows/macOS/Linux
 
-## Instalación 📦
-
-1. Clona el repositorio:
-```bash
-git clone https://github.com/tu-usuario/teclado-virtual-gestos.git
-cd teclado-virtual-gestos
-
 ## Uso 🖐️
 1.- Coloca tu mano frente a la cámara
 2.- Mueve tu dedo índice para controlar el cursor
